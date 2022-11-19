@@ -14,4 +14,6 @@ export function Headline({title,page}) {
         </p>
     </>
   )
+  
 }
+
